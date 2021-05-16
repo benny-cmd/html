@@ -1,0 +1,42 @@
+h1{
+color: brown;
+font-size: 72px;
+}
+h3{
+color: blue;
+}
+body{
+background-color: yellow;
+}
+p {
+font-family: impact;
+font-size: 14px;
+font-style: italic;
+}
+Img {
+border-color: blue;
+border-width: 5px;
+border-style: solid;
+}
+
+#highlight{
+font-family: arial;
+font-size: 20px;
+font-weight: bold;
+}
+#para1 {
+	font-size:14x;
+	color:navy;
+	}
+	
+#para2 {
+	font-size:14x;
+	color:navy;
+	}
+	
+
+#para3 {
+	font-size:19x;
+	color:green;
+	}
+	
