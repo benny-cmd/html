@@ -1,0 +1,40 @@
+body {
+  background-color: blue;
+  transition: background-color 7s;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: center
+}
+li {
+    display: inline;
+    list-style: none; 
+}
+
+a:link,a:visited
+
+{
+    display:inline-block;
+    margin-right:-5px;
+    width:140px;
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color:green;
+    text-align:center;
+    padding:5px;
+    text-decoration:none;
+}
+
+
+.header {
+  padding: 60px;
+  text-align: left;
+  color: black;
+  font-size: 30px;
+}
+
+img {
+  width: 50%;
+}
